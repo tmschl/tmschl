@@ -25,7 +25,7 @@ export default function App() {
               className="hover:opacity-60 transition-opacity"
               style={{ color: '#0C1B33', opacity: 0.65, fontSize: '0.8rem' }}
             >
-              Director of Product Engineering
+              Associate Director of Product Engineering at RAPP
             </a>
           </div>
           <div>
@@ -36,7 +36,7 @@ export default function App() {
               className="hover:opacity-60 transition-opacity"
               style={{ color: '#0C1B33', opacity: 0.65, fontSize: '0.8rem' }}
             >
-              Fiction, Criticism, and Poetry
+              My Writing
             </a>
           </div>
         </div>
@@ -51,12 +51,12 @@ export default function App() {
           </p>
           
           <p style={{ color: '#0C1B33', opacity: 0.55, fontSize: '0.75rem', lineHeight: '1.6' }}>
-            © 2025 Timmy Schiller
+            © 2025 Schiller Press
           </p>
 
           <p style={{ color: '#0C1B33', opacity: 0.55, fontSize: '0.75rem', lineHeight: '1.6' }}>
-            MSt University of Oxford<br />
-            BS University of California, Berkeley
+            MSt in English Literature from University of Oxford<br />
+            BA in English Literature from University of California, Berkeley
           </p>
 
           <p style={{ color: '#0C1B33', opacity: 0.55, fontSize: '0.75rem', lineHeight: '1.6' }}>
